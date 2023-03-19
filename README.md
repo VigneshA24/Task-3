@@ -6,13 +6,13 @@ Day-3 Task
 
 {
 "Resume": {
-"name": "Thangavel S",
-"email": "parvathythangam1402@gmail.com",
-"phone": "9600704401",
+"name": "VIGNESH A",
+"email": "avickyvignesh2001@gmail.com",
+"phone": "9597913275",
 "Qualification": "Diploma in Mechanical Engineering",
 "Location": {
-"address": "Krishna nagar",
-"Postal code": 635126,
+"address": "dinnur",
+"Postal code": 635109,
 "city": "Hosur",
 "State": "Tamilnadu",
 "Country": "India",
@@ -20,8 +20,8 @@ Day-3 Task
 
 "Profiles": [
 {
-"network": "https://www.linkedin.com/in/thangavel-selvaraj-66381886",
-"github": "https://github.com/thangam17",
+"network": "https://www.linkedin.com/in/vignesh-a-741a67216",
+"github": "https://github.com/VigneshA24",
 }
 ]
 },
@@ -29,28 +29,22 @@ Day-3 Task
 {
 "Company": "Titan Engineering and Automation Limited",
 "Position": "Senior Production Engineer",
-"start date": "27-03-2014",
-"end date": "27-03-2023",
+"start year": "2019",
+"end year": "still working",
 }
 ],
 "education": [
 {
-"institution": "Nanjiah lingammal polytechnic college",
+"institution": "Tamilnadu polytechnic college",
 "department": "mechanical",
-"batch start year": 2008,
-"batch end year": 2011,
-"study tyepe": "full time",
+"batch start year": 2016,
+"batch end year": 2019,
+"study type": "full time",
 }
 ],
 "languages": [
 {
 "languages": "tamil english",
-}
-],
-"awards": [
-{
-"title": "highest km covered under 24hr in cycle",
-"awarder": "india book of records",
 }
 ],
 }
@@ -80,13 +74,13 @@ Document
 
 var json = [
 {
-    "id": "thangam", 
+    "id": "vignesh", 
     "msg": "hello everyone",
     "task": "daily task",
     "mail": "parvathythangam1402@gmail.com",
 },
 {
-    "id": "gold" 
+    "id": "vicky" 
     "msg": "Welcome to all",
     "task": "day 3 task",
     "mail": "parvathythangam1402@gmail.com",
