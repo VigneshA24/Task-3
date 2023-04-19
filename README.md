@@ -77,13 +77,13 @@ var json = [
     "id": "vignesh", 
     "msg": "hello everyone",
     "task": "daily task",
-    "mail": "parvathythangam1402@gmail.com",
+    "mail": "avickyvignesh2001@gmail.com",
 },
 {
     "id": "vicky" 
     "msg": "Welcome to all",
     "task": "day 3 task",
-    "mail": "parvathythangam1402@gmail.com",
+    "mail": "avickyvignesh2001@gmail.com",
 }
 ];
 //for loop
